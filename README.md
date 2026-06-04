@@ -40,3 +40,9 @@ communication and teamwork abilities.
     </div>
 
 </div>
+
+<div class="education-box">
+    <h3>Bachelor of Science in Information Technology (BSIT)</h3>
+    <p>STI Tanay</p>
+    <p>Current Student</p>
+</div>
