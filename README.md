@@ -26,3 +26,17 @@ communication and teamwork abilities.
     <div class="card">Time Management</div>
     <div class="card">Adaptability</div>
 </div>
+
+<div class="project-grid">
+
+    <div class="project-card">
+        <h3>Locked Inside: A Horror Escape Game</h3>
+        <p>
+            Locked Inside is a horror escape game developed using Roblox Studio.
+            Players must solve puzzles, explore eerie environments, and overcome
+            challenges while attempting to escape dangerous situations. The game
+            focuses on immersive gameplay, suspense, and teamwork.
+        </p>
+    </div>
+
+</div>
